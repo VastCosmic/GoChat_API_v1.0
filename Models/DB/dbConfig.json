@@ -1,0 +1,8 @@
+{
+  "username": "go",
+  "password": "123456",
+  "host": "123456",
+  "port": 33333,
+  "dbname": "gochat",
+  "timeout": "10s"
+}
